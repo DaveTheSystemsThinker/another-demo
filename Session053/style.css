@@ -15,8 +15,8 @@ ol {
    color: green;
  }
 
-li:nth-child(4) {
-color: red;
+li[value="4"] {
+color: blue;
 }
 
 *{
