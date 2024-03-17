@@ -9,3 +9,13 @@ h1 {
 .red-heading {
     color:red;
  }
+
+#main {
+    color: pink;
+}
+
+p[dragable]{color:burlywood;
+}
+
+p[dragable="true"]{color:burlywood;
+}
